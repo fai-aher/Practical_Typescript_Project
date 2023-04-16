@@ -3,4 +3,4 @@ This repository will be used to hold the development of a practical project to p
 
 # Results
 It was possible to build a webpage about Series information using the technologies: HTML, CSS and Typescript (Javascript). 
-The resuling webpage can be checked here: https://fai-aher.github.io/Practical_Typescript_Project/seriesInfo_webpage/
+The resulting webpage can be checked in this link: https://fai-aher.github.io/Practical_Typescript_Project/seriesInfo_webpage/
