@@ -56,6 +56,11 @@ table {
     font-weight: bold;
   }
 
+  #Series td a {
+    color: rgb(8, 91, 119);
+    text-decoration: underline;
+    cursor: pointer;
+  }
   .avgSeasons {
     font-size: 18px;
     background-color: #ddd;
@@ -73,3 +78,9 @@ table {
     margin-top: 20px;
     margin-bottom: 5px;
   }
+
+  .card-title {
+    font-weight: bold;
+  }
+
+  
